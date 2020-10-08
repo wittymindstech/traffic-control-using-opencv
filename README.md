@@ -14,3 +14,5 @@ traffic control using python opencv image detection
 
 image detected successfully
 
+
+![](traffic.png)
